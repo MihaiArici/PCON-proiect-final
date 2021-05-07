@@ -1,22 +1,34 @@
 # (Titlu)
-(Scurtă descriere)
+Modelarea unui/unor instrumente muzicale:corzi de vioara/chitara si/sau notele unui pian
 
 ## (Instalare)
-...
+Download la patcher-ele din Max
 
 ## (Utilizare)
-...
+Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anumite tip de sunet
 
 ## (Istoric)
 
-(13.05) ...
+(13.05) Experimentarea cu diferite exemple de Karplus-Strong gasite online, si ajustarea acestora pana la obtinerea unor rezultate(sunete) acceptabile.
 
 (3.06) ...
 
 (X.06) ...
 
 ## (Link-uri)
-...
+https://www.youtube.com/watch?v=5RYy8Cvgkqk
+
+https://www.youtube.com/watch?v=Cc1-Rq0nSVo&t=182s
+
+https://www.youtube.com/watch?v=Yb8JuFHJxQQ   
+
+https://www.youtube.com/watch?v=ieLUTwfkkU4 	(part 1) 
+
+https://www.youtube.com/watch?v=Z_aLgR3n05A	(part 2)
+
+https://www.youtube.com/watch?v=eiewFZ8OVow  (part 1) 
+
+https://www.youtube.com/watch?v=REigfEsfNxw	(part 2) 
 
 # Dezvoltarea proiectului
 

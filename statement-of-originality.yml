@@ -1,7 +1,7 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name:Aricisteanu Tiberiu-Mihail
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
@@ -11,21 +11,56 @@ declaration: >-
 # add as many "name+comment" entries as necessary
 # (or remove it altogether if you haven't collaborated with anyone)
 collaboration:
-  - name:
-    comment: >-
+  - name: dude837
+    comment: >- Am folosit tutorialul de pe youtube
       
+   - name: Keith Kothman
+    comment: >- Am folosit tutorialele de pe youtube
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
-    licence:
-
+  - comment: Implementare Karplus-Strong 
+    url: https://www.youtube.com/watch?v=5RYy8Cvgkqk
+    licence: MIT
+    
+   - comment: Karplus-Strong Modifications
+    url: https://www.youtube.com/watch?v=ieLUTwfkkU4
+    licence: MIT
+    
+   - comment: Karplus-Strong Modifications2
+    url: https://www.youtube.com/watch?v=Z_aLgR3n05A
+    licence: MIT
+    
+   - comment: The Next Gen~eration
+    url: https://www.youtube.com/watch?v=eiewFZ8OVow
+    licence: MIT
+    
+   - comment: Multigen
+    url: https://www.youtube.com/watch?v=REigfEsfNxw
+    licence: MIT
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
 assets:
-  - comment:
-    url:
-    licence:
+  - comment: Implementare Karplus-Strong
+    url: https://www.youtube.com/watch?v=5RYy8Cvgkqk
+    licence: MIT
+    
+  - comment: Karplus-Strong Modifications
+    url: https://www.youtube.com/watch?v=ieLUTwfkkU4
+    licence: MIT
+    
+   - comment: Karplus-Strong Modifications2
+    url: https://www.youtube.com/watch?v=Z_aLgR3n05A
+    licence: MIT 
+    
+   - comment: The Next Gen~eration
+    url: https://www.youtube.com/watch?v=eiewFZ8OVow
+    licence: MIT
+    
+   - comment: Multigen
+    url: https://www.youtube.com/watch?v=REigfEsfNxw
+    licence: MIT
+    
+    

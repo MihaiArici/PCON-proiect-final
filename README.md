@@ -2,14 +2,14 @@
 Modelarea unui/unor instrumente muzicale:corzi de vioara/chitara si/sau notele unui pian
 
 ## (Instalare)
-Download la patcher-ele din Max
+Download la patcher-ele de Max din folder-ul Prototipuri
 
 ## (Utilizare)
 Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anumite tip de sunet
 
 ## (Istoric)
 
-(13.05) Experimentarea cu diferite exemple de Karplus-Strong gasite online, si ajustarea acestora pana la obtinerea unor rezultate(sunete) acceptabile.
+(13.05) Experimentarea cu diferite exemple de Karplus-Strong gasite online, si ajustarea acestora pana la obtinerea unor rezultate(sunete) acceptabile si a unui punct de plecare adecvat.
 
 (3.06) ...
 

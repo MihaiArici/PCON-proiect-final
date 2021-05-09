@@ -11,9 +11,9 @@ Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anu
 
 (13.05) Experimentarea cu diferite exemple de Karplus-Strong gasite online, si ajustarea acestora pana la obtinerea unor rezultate(sunete) acceptabile si a unui punct de plecare adecvat.
 
-(3.06) ...
+(3.06) Compunerea automatizata/semi-automatizata a unor piese muzicale, si utilizarea algoritmului modificat pentru a produce o melodie simultan cu compunerea automatizata. 
 
-(X.06) ...
+(X.06) Controlul de la distanta al algoritmului; modificari finale; creearea unei interfete user friendly in Presentation Mode.
 
 ## (Link-uri)
 https://www.youtube.com/watch?v=5RYy8Cvgkqk

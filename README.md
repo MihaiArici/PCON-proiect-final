@@ -9,7 +9,7 @@ Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anu
 
 ## (Istoric)
 
-(13.05) Experimentarea cu diferite exemple de Karplus-Strong gasite online, si ajustarea acestora pana la obtinerea unor rezultate(sunete) acceptabile si a unui punct de plecare adecvat.
+(13.05) Experimentarea cu diferite exemple ale algoritmului Karplus-Strong gasite online, si ajustarea acestora pana la obtinerea unor rezultate(sunete) acceptabile si a unui punct de plecare adecvat.
 
 (3.06) Compunerea automatizata/semi-automatizata a unor piese muzicale, si utilizarea algoritmului modificat pentru a produce o melodie simultan cu compunerea automatizata. 
 

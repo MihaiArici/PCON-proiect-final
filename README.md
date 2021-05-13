@@ -1,13 +1,13 @@
-# (Emularea sunetelor produse de corzile unor instrumente muzicale)
+# Emularea sunetelor produse de corzile unor instrumente muzicale
 Modelarea unui/unor instrumente muzicale:corzi de vioara/chitara si/sau notele unui pian, bazate pe algoritmul Karplus-Strong.
 
-## (Instalare)
+## Instalare
 Download la patcher-ele de Max din folder-ul Prototipuri si eventual folder-ul cu proiectul final
 
-## (Utilizare)
+## Utilizare
 Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anumite tipuri de sunete: corzi de chitara/vioara de exemplu.
 
-## (Istoric)
+## Istoric
 
 (13.05) Experimentarea cu diferite exemple ale algoritmului Karplus-Strong gasite online, si ajustarea acestora pana la obtinerea unor rezultate(sunete) acceptabile si a unui punct de plecare adecvat.
 
@@ -15,7 +15,7 @@ Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anu
 
 (X.06) Controlul de la distanta al algoritmului; modificari finale; creearea unei interfete user friendly in Presentation Mode.
 
-## (Link-uri)
+## Link-uri
 https://www.youtube.com/watch?v=5RYy8Cvgkqk
 
 https://www.youtube.com/watch?v=Cc1-Rq0nSVo&t=182s

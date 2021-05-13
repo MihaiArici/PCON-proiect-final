@@ -1,4 +1,4 @@
-# (Titlu)
+# (Emularea sunetelor produse de corzile unor instrumente muzicale)
 Modelarea unui/unor instrumente muzicale:corzi de vioara/chitara si/sau notele unui pian, bazate pe algoritmul Karplus-Strong.
 
 ## (Instalare)

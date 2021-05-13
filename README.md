@@ -1,11 +1,11 @@
 # (Titlu)
-Modelarea unui/unor instrumente muzicale:corzi de vioara/chitara si/sau notele unui pian
+Modelarea unui/unor instrumente muzicale:corzi de vioara/chitara si/sau notele unui pian, bazate pe algoritmul Karplus-Strong.
 
 ## (Instalare)
-Download la patcher-ele de Max din folder-ul Prototipuri
+Download la patcher-ele de Max din folder-ul Prototipuri si eventual folder-ul cu proiectul final
 
 ## (Utilizare)
-Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anumite tip de sunet
+Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anumite tipuri de sunete: corzi de chitara/vioara de exemplu.
 
 ## (Istoric)
 

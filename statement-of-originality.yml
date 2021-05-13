@@ -16,6 +16,9 @@ collaboration:
       
    - name: Keith Kothman
     comment: >- Am folosit tutorialele de pe youtube
+    
+   - name: tune4media
+    comment: >- Am folosit tutorialele de pe youtube
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
@@ -39,6 +42,10 @@ code:
    - comment: Multigen
     url: https://www.youtube.com/watch?v=REigfEsfNxw
     licence: MIT
+    
+   - comment: Max | The amazing sound of KARPLUS STRONG [Full Lesson]
+    url: https://www.youtube.com/watch?v=Yb8JuFHJxQQ
+    licence: MIT
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
@@ -61,6 +68,10 @@ assets:
     
    - comment: Multigen
     url: https://www.youtube.com/watch?v=REigfEsfNxw
+    licence: MIT
+    
+       - comment: Max | The amazing sound of KARPLUS STRONG [Full Lesson]
+    url: https://www.youtube.com/watch?v=Yb8JuFHJxQQ
     licence: MIT
     
     

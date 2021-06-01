@@ -11,9 +11,19 @@ Deschiderea patcher-ului, si setarea parametrilor doriti, pentru a obtine un anu
 
 (13.05) Experimentarea cu diferite exemple ale algoritmului Karplus-Strong gasite online, si ajustarea acestora pana la obtinerea unor rezultate(sunete) acceptabile si a unui punct de plecare adecvat.
 
-(3.06) Compunerea automatizata/semi-automatizata a unor piese muzicale, si utilizarea algoritmului modificat pentru a produce o melodie simultan cu compunerea automatizata. 
+(3.06) Compunerea automatizata/semi-automatizata a unor piese muzicale, si utilizarea algoritmului modificat pentru a produce o melodie simultan cu compunerea automatizata:
+   -Ultima versiune a algoritmului este o combinatie intre Karplus_Strong_4, cel cu multichannel, si Karplus_Strong_3, cel care foloseste 3 corzi simultane ca un sub-patcher;
+   -Controlul manual, de la tastatura al kslider-ului pentru Karplus_Strong_4 folosing obiectul key, dar reorganizand clapele (codul ASCII) in functie de tastatura;
+   -Posibilitatea de schimbare a tipurilor de sunete din Karplus_Strong_4: noise~, pink~, tri~, saw~, cycle~, rect~, si combinatii intre ultimele 4 tipuri de sunete, astfel
+   obtinand combinatii de sunete asemanatoare clapelor de pian.
+   -Schimbarea anumitor valori din obiectul preset utilizand OSC din aplicatia oschook: mai exact, diferite valori pentru luminozitate;
+   -Controlul/Compunerea diferitor tipuri de melodii in Karplus_Strong_3 folosind oschook: o combinatie intre parametrii de la accelerometru si a celor de la orientate, dar si
+   schimbarea timpului in care sunt primite mesajele tip OSC pentru a obtine variatii de sunete controlate prin obiecte tip switch;
+   -Modificarea track-urilor auxiliare pentru a putea fi utilizate simultan cu obiectul key modificat: ca un fel de "live performance";
+   
 
-(X.06) Controlul de la distanta al algoritmului; modificari finale; creearea unei interfete user friendly in Presentation Mode.
+(X.06)  Modificari finale/imbunatatiri/ajustari; 
+        Creearea unei interfete user friendly in Presentation Mode.
 
 ## Link-uri
 https://www.youtube.com/watch?v=5RYy8Cvgkqk

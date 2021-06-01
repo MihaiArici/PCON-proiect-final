@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=eiewFZ8OVow  (part 1)
 
 https://www.youtube.com/watch?v=REigfEsfNxw	(part 2) 
 
+https://www.youtube.com/watch?v=zCx_7lum-DU
+
 # Dezvoltarea proiectului
 
 Pentru început:

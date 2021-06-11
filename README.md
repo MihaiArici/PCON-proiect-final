@@ -32,7 +32,7 @@ tipuri de sunete: corzi de chitara/vioara de exemplu.
 
 (12.06)  Modificari finale/imbunatatiri/ajustari: 
 
-    Creearea unei interfete user friendly in Presentation Mode.
+   Creearea unei interfete user friendly in Presentation Mode.
     
    Integrarea algoritmului in Ableton Live 10 cu ajutorul a 2 track-uri de tip MIDI pe care sunt atasate cate un Max MIDI Effect. Fiecare effect preia un anumit tip de  
    Instrument MIDI specific pentru Live 10 in care am compus un anumit track MIDI, iar cele 2 MIDI Effects trimit numarul notei MIDI si Velocity-ul in kslider-ul din

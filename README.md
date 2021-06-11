@@ -6,7 +6,8 @@ Download la patcher-ele de Max din folder-ul Prototipuri si eventual folder-ul c
 Download la folder-ul Proiect Karplus-Strong Final ce contine proiectul integrat in Ableton Live 10 si patcher-ele Max in format .amxd
 
 ## Utilizare
-Deschiderea proiectului Max Karplus-Strong project.als , si setarea parametrilor doriti, pentru a obtine un anumite tipuri de sunete: corzi de chitara/vioara de exemplu.
+Deschiderea proiectului Max Karplus-Strong project.als , apoi deschiderea celor 3 patchere de MAX in format .amxd si setarea parametrilor doriti, pentru a obtine un anumite 
+tipuri de sunete: corzi de chitara/vioara de exemplu.
 
 ## Istoric
 

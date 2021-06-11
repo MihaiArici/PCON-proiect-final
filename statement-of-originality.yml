@@ -19,6 +19,12 @@ collaboration:
     
    - name: tune4media
     comment: >- Am folosit tutorialele de pe youtube
+    
+    - name: Kimberlee Swisher
+    comment: >- Am folosit tutorialul de pe youtube
+    
+     - name: The Producer's Kitchen
+    comment: >- Am folosit tutorialul de pe youtube
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
@@ -46,6 +52,14 @@ code:
    - comment: Max | The amazing sound of KARPLUS STRONG [Full Lesson]
     url: https://www.youtube.com/watch?v=Yb8JuFHJxQQ
     licence: MIT
+    
+    - comment: Intro to MIDI in Max 7
+    url: https://www.youtube.com/watch?v=zCx_7lum-DU&ab_channel=KimberleeSwisher
+    licence: MIT
+    
+    - comment: Max for Live Madness: Parsing MIDI, Live Objects, Creating MIDI Note Info Device
+    url: https://www.youtube.com/watch?v=gLEHeA2NX8Q&ab_channel=TheProducer%27sKitchen
+    licence: MIT
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
@@ -70,8 +84,16 @@ assets:
     url: https://www.youtube.com/watch?v=REigfEsfNxw
     licence: MIT
     
-       - comment: Max | The amazing sound of KARPLUS STRONG [Full Lesson]
+    - comment: Max | The amazing sound of KARPLUS STRONG [Full Lesson]
     url: https://www.youtube.com/watch?v=Yb8JuFHJxQQ
+    licence: MIT
+    
+     - comment: Intro to MIDI in Max 7
+    url: https://www.youtube.com/watch?v=zCx_7lum-DU&ab_channel=KimberleeSwisher
+    licence: MIT
+    
+    - comment: Max for Live Madness: Parsing MIDI, Live Objects, Creating MIDI Note Info Device
+    url: https://www.youtube.com/watch?v=gLEHeA2NX8Q&ab_channel=TheProducer%27sKitchen
     licence: MIT
     
     

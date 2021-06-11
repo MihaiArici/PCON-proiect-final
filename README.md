@@ -76,6 +76,38 @@ https://docs.cycling74.com/max5/vignettes/core/live_midieffects.html		Control cu
 # Declaratia de originalitate
 
  [Declarația de originalitate](statement-of-originality.yml) 
+ 
+ 
+## Bibliografie
+
+[1] Delicious Max/MSP Tutorial 1: Karplus-Strong. www.youtube.com,
+https://www.youtube.com/watch?v=5RYy8Cvgkqk. 
+
+[2] 02 Waveguides in GenExpr | 01 Nonlinear Karplus-Strong. www.youtube.com,
+https://www.youtube.com/watch?v=Cc1-Rq0nSVo. 
+
+[3] Max | The amazing sound of KARPLUS STRONG [Full Lesson]. www.youtube.com,
+https://www.youtube.com/watch?v=Yb8JuFHJxQQ. 
+
+[4] Karplus Strong Modifications. www.youtube.com,
+https://www.youtube.com/watch?v=ieLUTwfkkU4. 
+
+[5] KarplusStrongModifications2. www.youtube.com,
+https://www.youtube.com/watch?v=Z_aLgR3n05A. 
+
+[6] Delicious Max 8 Tutorial 3: The Next Gen~eration. www.youtube.com,
+https://www.youtube.com/watch?v=eiewFZ8OVow. 
+
+[7] Delicious Max 8 Tutorial 4: Multigen. www.youtube.com,
+https://www.youtube.com/watch?v=REigfEsfNxw. 
+
+[8] Intro to MIDI in Max 7. www.youtube.com,
+https://www.youtube.com/watch?v=zCx_7lum-DU. 
+
+[9] Max for Live Madness: Parsing MIDI, Live Objects, Creating MIDI Note Info Device. www.youtube.com,
+https://www.youtube.com/watch?v=gLEHeA2NX8Q. 
+
+[10] Creating MIDI Effects. https://docs.cycling74.com/max5/vignettes/core/live_midieffects.html. 
 
    
 
